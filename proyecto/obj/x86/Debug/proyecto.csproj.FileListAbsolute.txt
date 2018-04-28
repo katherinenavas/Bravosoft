@@ -1,0 +1,48 @@
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\bin\Debug\proyecto.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.Main.resources
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.Iniciar_Sesion.resources
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.Registro.resources
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+c:\users\usuario\documents\visual studio 2010\Projects\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\bin\Debug\Usuario.sdf
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.Main.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.Iniciar_Sesion.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.Properties.Resources.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.Registro.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\PROYECTO\SEGUNDO CORTE\proyecto\proyecto\obj\x86\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\usuario\Desktop\proyecto\proyecto\bin\Debug\Usuario.sdf
+C:\Users\usuario\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\usuario\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Main.resources
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Iniciar_Sesion.resources
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Registro.resources
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Desktop\proyecto\proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\bin\Debug\Usuario.sdf
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\bin\Debug\proyecto.exe
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\bin\Debug\proyecto.pdb
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.Main.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.Iniciar_Sesion.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.Properties.Resources.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.Registro.resources
+C:\Users\User\Documents\ING SISTEMAS\CUARTO SEMESTRE\PROGRAMACION\Bravosoft\proyecto\obj\x86\Debug\proyecto.csproj.GenerateResource.Cache
